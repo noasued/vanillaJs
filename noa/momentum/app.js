@@ -1,7 +1,8 @@
-const title = document.getElementById("title");
-// console.dir(title);
 
-title.innerText = "Got you!";
+const h1 = document.querySelector("div.hello:first-child h1");
 
-console.log(title.id);
-console.log(title.className);
+function handleTitleClick() {
+  h1.classList.toggle("clicked");
+}
+
+h1.addEventListener("click", handleTitleClick);
