@@ -29,7 +29,3 @@
 <ul>
   <li>NomadCoders Vanilla JavaScript 무료강의로 시작(2022.01.21 - 2021.01.28 완강 목표)</li>
 </ul>
-<h1 align="center">Noa의 결과물</h1>
-<img width="1270" alt="스크린샷 2022-01-28 오후 5 12 10" src="https://user-images.githubusercontent.com/78011677/151686804-cd688ee2-4a98-4c73-bba4-ae34669f8e41.png">
-<img width="1254" alt="스크린샷 2022-01-28 오후 8 08 01" src="https://user-images.githubusercontent.com/78011677/151686806-c81d317b-a6a8-4320-917f-d087827d8eac.png">
-<img width="1253" alt="스크린샷 2022-01-28 오후 8 08 48" src="https://user-images.githubusercontent.com/78011677/151686808-9d1cffbe-0c3a-4180-81fe-376fb770b0f6.png">
