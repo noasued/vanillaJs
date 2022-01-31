@@ -1,6 +1,6 @@
 
- main
 <h1 align="center">JavaScript Study</h1>
+
 <div align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="200"></div>
 <br>
 <div align="center">
@@ -29,3 +29,4 @@
 <ul>
   <li>NomadCoders Vanilla JavaScript 무료강의로 시작(2022.01.21 - 2021.01.28 완강 목표)</li>
 </ul>
+
